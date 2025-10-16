@@ -20,7 +20,7 @@ const CTA = () => {
           today and experience a powerful, modern, and intelligent calculator —
           free forever.
         </p>
-        <a href="/ClearMath.exe" download>
+        <a href="https://github.com/Waqas-Khan-CodeCanvas/clearmath/releases/download/v1.0/ClearMath.exe" download>
           <button className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-md flex items-center justify-center gap-2 mx-auto font-medium transition-all duration-300 shadow-md shadow-blue-600/30 hover:scale-[1.05] cursor-pointer">
             Download for Free <Download className="w-4 h-4" />
           </button>

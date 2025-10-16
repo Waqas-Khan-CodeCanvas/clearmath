@@ -36,7 +36,7 @@ const Hero = () => {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.6 }}
       >
-        <a href="/ClearMath.exe" download>
+        <a href="https://github.com/Waqas-Khan-CodeCanvas/clearmath/releases/download/v1.0/ClearMath.exe" download>
           <button className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 md:px-6 py-3 rounded-md flex items-center justify-center gap-2 font-medium shadow-lg shadow-blue-500/20 transition-all duration-300 hover:scale-[1.05]">
             Download Now <Download className="w-4 h-4" />
           </button>

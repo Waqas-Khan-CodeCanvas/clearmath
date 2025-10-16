@@ -42,7 +42,7 @@ const Header = () => {
         </div>
 
         {/* Download Button */}
-       <a href="/ClearMath.exe"
+       <a href="https://github.com/Waqas-Khan-CodeCanvas/clearmath/releases/download/v1.0/ClearMath.exe"
               download>
         <button className="hidden md:flex bg-blue-600 text-white px-4 py-2 rounded-md items-center gap-1 hover:bg-blue-700 transition-all duration-300 cursor-pointer shadow-md hover:shadow-blue-500/20">
           Download <Download className="w-4 h-4" />
@@ -84,7 +84,7 @@ const Header = () => {
               Download
             </a>
             <a
-              href="/ClearMath.exe"
+              href="https://github.com/Waqas-Khan-CodeCanvas/clearmath/releases/download/v1.0/ClearMath.exe"
               download
               className="bg-blue-600 text-white px-4 py-2 rounded-md items-center gap-1 hover:bg-blue-700 transition-all duration-300 cursor-pointer inline-flex"
             >
